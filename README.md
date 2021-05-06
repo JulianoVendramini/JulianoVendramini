@@ -1,14 +1,7 @@
-# Hi, Im Juliano Vendramini.  
+# Hello. Im Juliano Vendramini and this is my repository.  
 
-## Im very interested to learning more about React/ReactNative && AI/Machine Learning.  
+## Yeah... Its very beginner and simple... YET. Im studying a lot and promise thats will provide soon.  
+## Nowadays Im learning about React/ReactNative and API's.
+![react](https://miro.medium.com/max/1413/1*nFP5vJPVTEaimO8n4jPKgA.gif)
+## Im trying to get some experience. So... if you want a person who will be involved in your project: this is my [linkedin account](https://www.linkedin.com/in/julianovendramini/)
 
-## Nowadays Im trying to get some experience. 
-
-## My email adress: JulianoVendramini@outlook.com  
-
-## My [Linkedin](https://www.linkedin.com/in/julianovendramini/) account.
-
-<!---
-JulianoVendramini/JulianoVendramini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
