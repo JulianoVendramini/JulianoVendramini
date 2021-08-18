@@ -42,4 +42,4 @@
 [instagram]: https://instagram.com/JuuVendramini
 [linkedin]: https://linkedin.com/in/JulianoVendramini
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JulianoVendramini/JulianoVendramini/blob/output/github-contribution-grid-snake.svg)
