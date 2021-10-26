@@ -44,5 +44,3 @@
 [twitter]: https://twitter.com/JuuVendramini
 [instagram]: https://instagram.com/JuuVendramini
 [linkedin]: https://linkedin.com/in/JulianoVendramini
-  
-![Snake animation](https://github.com/JulianoVendramini/JulianoVendramini/blob/output/github-contribution-grid-snake.svg)
