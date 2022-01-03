@@ -10,9 +10,9 @@
   
 ##
   
-- 🌱 I’m currently learning and working with ReactJS, NextJS, styled-components, node, Graphql.
+- 🌱 I’m currently learning and working with ReactJS, NextJS, styled-components, nodejs, Graphql.
 - 👯 I’m looking to get more experience as a Full Stack Developer.
-- 🥅 2021 Goals: Create and collaborate with stunning projects.
+- 🥅 2022 Goals: Create and collaborate with stunning projects.
 - ⚡ Fun fact: I love sports. I usually play beach volley.
   
 <br />
