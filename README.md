@@ -1,48 +1,42 @@
-<h1 align="center"> Hi there, I'm Juliano Vendramini</h1>
+# Hey there. I'm Juliano Vendramini Codognos :smile:
 
-<br />
-<div align="center">
-  <a href="https://github.com/JulianoVendramini">
+## About me:
+I'm a Full Stack Developer. My biggest inspiration as a developer is: be able to solve people's problems with only a computer! I'm always trying to improve my soft/hard skills.
+
+<br>
+
+> Languages:
+<div display: flex>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo" /> 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-logo" />
+</div>
+
+<br>
+
+> Front End:
+<div display: flex>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs-logo" /> 
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs-logo" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="nextjs-logo" />
+  <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="antd-logo" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-logo" />
+</div>
+
+<br>
+
+> Back End:
+<div  display: flex>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs-logo" /> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express-logo" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma-logo" />
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql-logo" />
+</div>
+
+<br>
+
+## Some status: 
+<a href="https://github.com/JulianoVendramini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoVendramini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoVendramini&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br />
-  
-##
-  
-- 🌱 I’m currently learning and working with ReactJS, NextJS, styled-components, nodejs, Graphql.
-- 👯 I’m looking to get more experience as a Full Stack Developer.
-- 🥅 2022 Goals: Create and collaborate with stunning projects.
-- ⚡ Fun fact: I love sports. I usually play beach volley.
-  
-<br />
-  
-<h2 align="center">Main technologies</h2> 
+</a>
 
-<br />
-<br />
-
-<img align="center" width="80px" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="center" width="80px" alt="HTML5" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" />
-<img align="center" width="80px" alt="HTML5" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
-<img align="center" width="80px" alt="HTML5" src="https://logospng.org/download/react/logo-react-1024.png" />
-<img align="center" width="80px" alt="HTML5" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" />
-<img align="center" width="80px" alt="HTML5" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
-<img align="center" width="80px" alt="HTML5" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
-<img align="center" width="80px" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-<img align="center" width="80px" alt="HTML5" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> 
-<br />
-
-  
-<div align="right">                 
-<br /> <br /> <br /> <br /> <br /> <br />
-  
-[<img alt="JulianoVendramini | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="JuuVendramini | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img alt="JuuVendramini | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-</div>
-  
-[twitter]: https://twitter.com/JuuVendramini
-[instagram]: https://instagram.com/JuuVendramini
-[linkedin]: https://linkedin.com/in/JulianoVendramini
