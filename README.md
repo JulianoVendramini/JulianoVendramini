@@ -1,7 +1,7 @@
 # Hey there. I'm Juliano Vendramini Codognos :smile:
 
 ## About me:
-I'm a Full Stack Developer. My biggest inspiration as a developer is: be able to solve people's problems with only a computer! I'm always trying to improve my soft/hard skills.
+I'm a Full Stack Developer. My biggest inspiration as a developer is being able to help solving everyday problems and contributing with someone's dream in creating their own product and innovate. It makes me feel more motivated.
 
 <br>
 
